@@ -1,0 +1,48 @@
+/* custom.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.medium {
+    font-size: 16px;
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
+}
+
+.card-title {
+    font-size: 20px;
+    color: #007bff;
+}
+
+.nav-link {
+    color: #007bff!important;
+    margin: 5px 0;
+}
+
+.nav-link:hover {
+    background-color: #e7f1ff;
+}
+
+.border-right {
+    border-right: 1px solid #dee2e6!important;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+/* Adjust the width of dropdowns */
+.dropdown .Select-control {
+    width: auto;
+}
